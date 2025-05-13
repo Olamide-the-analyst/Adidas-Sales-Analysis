@@ -5,6 +5,17 @@
 This project presents a visual analysis of **Adidas sales data** using an interactive dashboard built in **Microsoft Excel**. The dashboard displays critical business metrics across product categories, regions, and sales methods, enabling quick performance evaluation and strategic planning.
 
 ---
+## ✅ Objectives
+
+- Visualize **total revenue**, **units sold**, **average revenue per unit**, and **total profit**.
+- Track **monthly sales trends**.
+- Analyze **product performance** (most/least sold products).
+- Compare **sales by method** (_In-store_, _Online_, _Outlet_).
+- Examine **regional and city-level sales**.
+- Identify **top-performing states**.
+- Showcase **store-wise** and **product-wise contributions**.
+
+---
 
 ## 📌 Key Metrics
 
@@ -53,13 +64,56 @@ This project presents a visual analysis of **Adidas sales data** using an intera
 
 ---
 
+## 📝 How to Use
+
+1. Open the **Excel file** (if available) or refer to the **attached dashboard image**.
+2. Use the **slicers** (_Sales Method_, _Region_, _City_) to interact with and filter the data.
+3. Review **key metrics** and **visual insights** to understand performance drivers and trends.
+
+---
+
+## 📧 Contact
+
+For questions, feedback, or collaboration, please reach out to:
+
+- **Name:** Olamide Janet Obagbemileke  
+- **Email:** Olamidedanalyst@gmail.com  
+- **LinkedIn:** [Your LinkedIn Profile URL]  
 ## 👤 Author
 
 **Olamide Janet Obagbemileke**  
 _Data Analyst | Economist | Chartered Tax Practitioner_
 
 📧 [YourEmail@example.com]  
-🔗 [LinkedIn Profile](https://www.linkedin.com) *(Insert actual link)*
+🔗 [LinkedIn Profile](https://www.linkedin.com ## 📝 How to Use
+
+1. Open the **Excel file** (if available) or refer to the **attached dashboard image**.
+2. Use the **slicers** (_Sales Method_, _Region_, _City_) to interact with and filter the data.
+3. Review **key metrics** and **visual insights** to understand performance drivers and trends.
+
+---
+
+## 📧 Contact
+
+For questions, feedback, or collaboration, please reach out to:
+
+- **Name:** Olamide Janet Obagbemileke  
+- **Email:** [Your Email Here]  
+- **LinkedIn:** [Your LinkedIn Profile URL]   ## 📝 How to Use
+
+1. Open the **Excel file** (if available) or refer to the **attached dashboard image**.
+2. Use the **slicers** (_Sales Method_, _Region_, _City_) to interact with and filter the data.
+3. Review **key metrics** and **visual insights** to understand performance drivers and trends.
+
+---
+
+## 📧 Contact
+
+For questions, feedback, or collaboration, please reach out to:
+
+- **Name:** Olamide Janet Obagbemileke  
+- **Email:** [Your Email Here]  
+- **LinkedIn:** [Your LinkedIn Profile URL] www.linkedin.com/in/olamide-janet) 
 
 ---
 
