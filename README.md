@@ -78,46 +78,9 @@ For questions, feedback, or collaboration, please reach out to:
 
 - **Name:** Olamide Janet Obagbemileke  
 - **Email:** Olamidedanalyst@gmail.com  
-- **LinkedIn:** [Your LinkedIn Profile URL]  
+- **LinkedIn:**  www.linkedin.com/in/olamide-janet 
 ## 👤 Author
 
 **Olamide Janet Obagbemileke**  
 _Data Analyst | Economist | Chartered Tax Practitioner_
-
-📧 [YourEmail@example.com]  
-🔗 [LinkedIn Profile](https://www.linkedin.com ## 📝 How to Use
-
-1. Open the **Excel file** (if available) or refer to the **attached dashboard image**.
-2. Use the **slicers** (_Sales Method_, _Region_, _City_) to interact with and filter the data.
-3. Review **key metrics** and **visual insights** to understand performance drivers and trends.
-
----
-
-## 📧 Contact
-
-For questions, feedback, or collaboration, please reach out to:
-
-- **Name:** Olamide Janet Obagbemileke  
-- **Email:** [Your Email Here]  
-- **LinkedIn:** [Your LinkedIn Profile URL]   ## 📝 How to Use
-
-1. Open the **Excel file** (if available) or refer to the **attached dashboard image**.
-2. Use the **slicers** (_Sales Method_, _Region_, _City_) to interact with and filter the data.
-3. Review **key metrics** and **visual insights** to understand performance drivers and trends.
-
----
-
-## 📧 Contact
-
-For questions, feedback, or collaboration, please reach out to:
-
-- **Name:** Olamide Janet Obagbemileke  
-- **Email:** [Your Email Here]  
-- **LinkedIn:** [Your LinkedIn Profile URL] www.linkedin.com/in/olamide-janet) 
-
----
-
-## 📝 License
-
-This project is open-source and free to use for educational or analytical purposes. Attribution is appreciated.
 
