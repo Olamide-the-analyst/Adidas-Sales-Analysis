@@ -61,7 +61,7 @@ This project presents a visual analysis of **Adidas sales data** using an intera
 ## 📷 Screenshot
 
 > _Note: The dashboard image (`ADIDAS REPORT USING EXCEL.jpg`) is attached to visually represent the final output._
-
+ADIDAS REPORT USING EXCEL.jpg 
 ---
 
 ## 📝 How to Use
